@@ -1,0 +1,2 @@
+# L3KanjiRom
+Kanji ROM Card for HITACHI BASIC MASTER LEVEL3
