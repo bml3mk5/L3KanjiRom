@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name CardEdge)(type KiCad)(uri ${KIPRJMOD}/CardEdge.pretty)(options "")(descr ""))
+  (lib (name Triangle)(type KiCad)(uri ${KIPRJMOD}/Triangle.pretty)(options "")(descr ""))
+)
